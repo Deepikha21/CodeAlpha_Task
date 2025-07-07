@@ -1,4 +1,4 @@
-# CodeAlpha_Task
+CodeAlpha_Task
 📊 Data Visualization with Python
 
 This project is part of the Code Alpha internship tasks. It demonstrates how data visualization techniques can be used to explore and analyze a dataset using Python libraries like *Pandas*, *Matplotlib*, and *Seaborn*.
